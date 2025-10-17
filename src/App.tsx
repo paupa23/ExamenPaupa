@@ -16,7 +16,7 @@ import {
 } from "@/components/ui/sidebar"
 
 import { AppleHelloEffect } from "@/components/apple-hello-effect"
-import { UploadZone } from "@/components/upload-zone"
+
 import { Dropzone, DropzoneContent, DropzoneEmptyState } from '@/components/dropzone';
 import { useState } from 'react';
 
